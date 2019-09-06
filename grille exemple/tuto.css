@@ -1,0 +1,12 @@
+
+.row {
+	border: 1px solid #F00;
+	background:#FF8;
+	text-align: center;
+}
+	.row *{
+		border: 1px solid #000;
+		border-radius: 5px;
+		background:#AFF;
+		vertical-align:middle;
+	}
